@@ -1,3 +1,4 @@
 # vcs_repo
 practice files
-<p>Sample project for "Version Control Systems"</p>
+<p>"Version Control Systems"</p>
+<p>Sample project to show the wroking of git and github</p>
